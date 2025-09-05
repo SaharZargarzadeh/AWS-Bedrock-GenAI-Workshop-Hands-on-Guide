@@ -1,4 +1,5 @@
 # Lab 1: Creating a Knowledge Base with Business Data  
+![Knowledge Base](../images/a1.png)
 
 ## 🎯 Objective  
 Build a hybrid knowledge base using **Amazon Bedrock** that combines structured data (Redshift) and unstructured data (S3 + Titan embeddings + OpenSearch). This setup powers Retrieval-Augmented Generation (RAG) for more accurate AI responses.  
@@ -11,6 +12,7 @@ Build a hybrid knowledge base using **Amazon Bedrock** that combines structured 
 - Activated **Titan Text Embeddings V2**, **Nova Pro**, and **Nova Micro**.  
 - These models handled embedding, generation, and retrieval.  
 
+![Knowledge Base](../images/a2.png)
 ---
 
 ### 2. Connected to Structured Data (Redshift)  
@@ -20,6 +22,7 @@ Build a hybrid knowledge base using **Amazon Bedrock** that combines structured 
 
 🔗 [Amazon Redshift Documentation](https://docs.aws.amazon.com/redshift/)  
 
+![Knowledge Base](../images/a3.png)
 ---
 
 ### 3. Built Vector Knowledge Base  
