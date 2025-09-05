@@ -22,7 +22,7 @@ Build a hybrid knowledge base using **Amazon Bedrock** that combines structured 
 
 🔗 [Amazon Redshift Documentation](https://docs.aws.amazon.com/redshift/)  
 
-![Knowledge Base](../images/a3.png)
+![Knowledge Base](../images/a4.png)
 ---
 
 ### 3. Built Vector Knowledge Base  
