@@ -2,7 +2,7 @@
 
 ## 🎯 Objective  
 Use **Bedrock Flows** to visually design multi-step generative AI workflows that combine classification, routing, and knowledge bases.  
-
+![Knowledge Base](../images/b1.png)
 ---
 
 ## 📝 What I Did  
@@ -28,6 +28,7 @@ Use **Bedrock Flows** to visually design multi-step generative AI workflows that
 - Linked both Redshift and Vector KBs.  
 - Configured outputs for factual vs contextual answers.  
 
+![Knowledge Base](../images/bed1.png)
 ---
 
 ### 4. Tested & Validated  
