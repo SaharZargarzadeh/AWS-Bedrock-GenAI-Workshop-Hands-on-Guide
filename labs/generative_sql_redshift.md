@@ -1,5 +1,5 @@
 # Lab 4: Natural Language to SQL with Amazon Q Generative SQL  
-
+![Knowledge Base](../images/a3.png)
 ## 🎯 Objective  
 Use **Amazon Q Generative SQL** in Redshift to convert plain-English questions into optimized SQL queries. This lowers the barrier for non-technical users and accelerates data analysis.  
 
