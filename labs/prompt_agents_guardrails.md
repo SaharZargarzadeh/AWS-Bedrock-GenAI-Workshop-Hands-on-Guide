@@ -22,6 +22,7 @@ Learn how to control, automate, and safeguard AI interactions with **Bedrock Pro
 
 🔗 [Amazon Bedrock Agents](https://docs.aws.amazon.com/bedrock/latest/userguide/agents.html)  
 
+![Knowledge Base](../images/g2.png)
 ---
 
 ### 3. Applied Guardrails  
@@ -31,6 +32,7 @@ Learn how to control, automate, and safeguard AI interactions with **Bedrock Pro
 
 🔗 [Amazon Bedrock Guardrails](https://docs.aws.amazon.com/bedrock/latest/userguide/guardrails.html)  
 
+![Knowledge Base](../images/ag1.png)
 ---
 
 ## ✅ Why This Helps Us  
