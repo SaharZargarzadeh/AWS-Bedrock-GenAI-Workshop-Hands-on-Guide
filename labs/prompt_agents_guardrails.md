@@ -1,5 +1,5 @@
 # Lab 2: Prompt Management, Agents, and Guardrails  
-
+![Knowledge Base](../images/g1.png)
 ## 🎯 Objective  
 Learn how to control, automate, and safeguard AI interactions with **Bedrock Prompt Management, Agents, and Guardrails**.  
 
