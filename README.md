@@ -1,4 +1,5 @@
 # 📘 AWS Bedrock GenAI Workshop – Hands-on Guide  
+![End-to-End GenAI Architecture](images/amazon_full_process.png)
 
 This repository documents my journey from the **AWS Data-Driven Everything workshop** on *Mastering Enterprise Gen AI: Building production applications with Amazon Bedrock*.  
 
